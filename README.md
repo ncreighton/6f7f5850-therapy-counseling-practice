@@ -1,2 +1,28 @@
-# 6f7f5850-therapy-counseling-practice
-What if have 24/7 automated responses without touching a server took minutes instead of hours?  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Therapy &amp; Counseling Practice Quiz And Training — fully configured and ready to use - Slash comm
+# Therapy & Counseling Practice Quiz and Training Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI3cv12D4scbRSdI0cZs3Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI3cv12D4scbRSdI0cZs3Z)
+
